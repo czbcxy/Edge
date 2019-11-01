@@ -27,6 +27,6 @@
     "live2d-widget-model-shizuku": "^1.0.5"
   },
   "devDependencies": {
-    "eslint": "^4.12.1"
+    "eslint": "^4.18.2"
   }
 }
